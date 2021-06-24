@@ -1,0 +1,24 @@
+using System;
+public class CheckTextAlphabetical
+{
+    public static void Main(string[] args)
+    {
+        string text = Console.ReadLine();
+        Console.WriteLine(IsAlphabetical(text));
+    }
+
+    public static bool IsAlphabetical(string text)
+    {
+        text = text.ToUpper();
+
+        for (int i = 0; i < text.Length; i++)
+        {
+            if (text[i] < 'A' || text[i] > 'Z')
+            {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}

@@ -1,0 +1,7 @@
+E:\Tahaluf\OOP\Day7\Task3\Task3\bin\Debug\Task3.exe.config
+E:\Tahaluf\OOP\Day7\Task3\Task3\bin\Debug\Task3.exe
+E:\Tahaluf\OOP\Day7\Task3\Task3\bin\Debug\Task3.pdb
+E:\Tahaluf\OOP\Day7\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+E:\Tahaluf\OOP\Day7\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\Tahaluf\OOP\Day7\Task3\Task3\obj\Debug\Task3.exe
+E:\Tahaluf\OOP\Day7\Task3\Task3\obj\Debug\Task3.pdb

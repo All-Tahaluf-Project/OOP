@@ -1,0 +1,7 @@
+E:\Tahaluf\OOP\Day10\Day10\bin\Debug\Day10.exe.config
+E:\Tahaluf\OOP\Day10\Day10\bin\Debug\Day10.exe
+E:\Tahaluf\OOP\Day10\Day10\bin\Debug\Day10.pdb
+E:\Tahaluf\OOP\Day10\Day10\obj\Debug\Day10.csprojAssemblyReference.cache
+E:\Tahaluf\OOP\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+E:\Tahaluf\OOP\Day10\Day10\obj\Debug\Day10.exe
+E:\Tahaluf\OOP\Day10\Day10\obj\Debug\Day10.pdb

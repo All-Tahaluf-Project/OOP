@@ -1,0 +1,12 @@
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\Day9.exe.config
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\Day9.exe
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\Day9.pdb
+E:\Tahaluf\OOP\Day9\Day9\obj\Debug\Day9.csprojAssemblyReference.cache
+E:\Tahaluf\OOP\Day9\Day9\obj\Debug\Day9.csproj.CoreCompileInputs.cache
+E:\Tahaluf\OOP\Day9\Day9\obj\Debug\Day9.exe
+E:\Tahaluf\OOP\Day9\Day9\obj\Debug\Day9.pdb
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\EntityFramework.dll
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\EntityFramework.xml
+E:\Tahaluf\OOP\Day9\Day9\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tahaluf\OOP\Day9\Day9\obj\Debug\Day9.csproj.CopyComplete

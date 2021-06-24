@@ -1,0 +1,12 @@
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\FinalProjectOOP.exe.config
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\FinalProjectOOP.exe
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\FinalProjectOOP.pdb
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\obj\Debug\FinalProjectOOP.csprojAssemblyReference.cache
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.CoreCompileInputs.cache
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\obj\Debug\FinalProjectOOP.exe
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\obj\Debug\FinalProjectOOP.pdb
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\EntityFramework.dll
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\EntityFramework.xml
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tahaluf\OOP\FinalProject\FinalProjectOOP\obj\Debug\FinalProjectOOP.csproj.CopyComplete
